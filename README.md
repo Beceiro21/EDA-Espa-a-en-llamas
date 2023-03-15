@@ -24,6 +24,6 @@ Para este proyecto nos hemos apoyado en el lenguaje de programación Python con 
 
 ### Autor
 
-*Fernando Martínez Beceiro
+*Fernando Martínez Beceiro*
 
 
